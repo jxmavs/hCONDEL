@@ -1,2 +1,0 @@
--minScore	3000	
--linearGap	medium
