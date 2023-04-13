@@ -1,0 +1,17 @@
+Vertebrata
+Tetrapoda
+Amniota
+Mammalia
+Theria
+Eutheria
+Boreoeutheria
+Euarchontoglires
+Euarchonta
+Primate
+Haplorhini
+Simiiformes
+Catarrhini
+Hominidae
+Homininae
+Hominini
+Homo_sapiens

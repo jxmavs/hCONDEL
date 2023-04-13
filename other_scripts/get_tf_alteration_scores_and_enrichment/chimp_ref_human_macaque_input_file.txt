@@ -1,0 +1,3 @@
+chimp   panTro4 /cluster_path/ape_project/deletions_project/reference_genome_files/chimp/panTro4.chrom.sizes    NA
+human   hg38    /cluster_path/ape_project/deletions_project/reference_genome_files/human/hg38.chrom.sizes   /cluster_path/ape_project/deletions_project/msa/chimp_10_way/panTro4_hg38/panTro4ToHg38.over.chain.gz
+macaque rheMac8 /cluster_path/ape_project/deletions_project/reference_genome_files/macaque/rheMac8.chrom.sizes /cluster_path/ape_project/deletions_project/msa/chimp_10_way/query_rheMac8/panTro4ToRheMac8.over.chain.gz  

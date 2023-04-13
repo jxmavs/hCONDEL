@@ -1,0 +1,10 @@
+C	0
+E	150
+H	2000
+K	4500
+L	3000
+M	254
+O	600
+Q	/cluster_path/ape_project/deletions_project/msa/lastzParamFiles/human_chimp.v2.q 
+T	2
+Y	15000

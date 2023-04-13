@@ -1,0 +1,8 @@
+GM12878	GM12878
+K562	K562
+HepG2	HEPG2
+HEK293	HEK293
+SK-N-SH	SK-N-SH
+endothelial+cell+of+umbilical+vein	HUVECS
+mammary+epithelial+cell	HMEC
+NPC	NPC

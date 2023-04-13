@@ -1,0 +1,6 @@
+https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.bed	screen_ccre
+https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.PLS.bed	screen_ccre_PLS
+https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.pELS.bed	screen_ccre_pELS
+https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.dELS.bed	screen_ccre_dELS
+https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.CTCF-only.bed	screen_ccre_CTCF-only
+https://api.wenglab.org/screen_v13/fdownloads/GRCh38-ccREs.DNase-H3K4me3.bed	screen_ccre_DNase-H3K4me3

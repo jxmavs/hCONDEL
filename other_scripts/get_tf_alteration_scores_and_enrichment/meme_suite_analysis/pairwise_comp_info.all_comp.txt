@@ -1,0 +1,3 @@
+panTro4 hg38
+rheMac8 hg38
+panTro4 rheMac8

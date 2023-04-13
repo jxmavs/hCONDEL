@@ -1,0 +1,8 @@
+HUVECS_cDNA	Plasmid_Backbone_8_17_Cycles	1	17_Cycles	17_Cycles	none
+HMEC_cDNA	Plasmid_Backbone_6_12_Cycles	2	12_Cycles_HMEC_only	12_Cycles_HMEC_only	12
+HEK293FT_cDNA	Plasmid_Backbone_6_12_Cycles	3	12_Cycles	12_Cycles	none
+HEPG2_cDNA	Plasmid_Backbone_6_12_Cycles	3	12_Cycles	12_Cycles	none
+K562_cDNA	Plasmid_Backbone_6_12_Cycles	3	12_Cycles	12_Cycles	none
+LCL_cDNA	Plasmid_Backbone_6_12_Cycles	3	12_Cycles	12_Cycles	none
+SKNSH_cDNA	Plasmid_Backbone_6_12_Cycles	3	12_Cycles	12_Cycles	none
+NPC_cDNA	Plasmid_Backbone_6_12_Cycles	4	12_Cycles_NPC_only	12_Cycles_NPC_only	none

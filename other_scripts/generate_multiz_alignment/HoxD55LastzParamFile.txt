@@ -1,0 +1,10 @@
+C	0
+E	30
+H	2000
+K	2200
+L	6000
+M	50
+O	400
+Q	/cluster_path/ape_project/deletions_project/msa/lastzParamFiles/HoxD55.q 
+T	1
+Y	3400

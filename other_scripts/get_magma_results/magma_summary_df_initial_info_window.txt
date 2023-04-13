@@ -1,0 +1,5 @@
+phenotype	author	N
+Bipolar	Mullins et al 2021	413466
+Depression	Wray et al. 2018	173005
+Intelligence	Savage et al. 2018	269867
+Schizophrenia	Jansen et al. 2020	65967

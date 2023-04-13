@@ -1,0 +1,5 @@
+panTro5	/cluster_path/ape_project/deletions_project/liftover_files/panTro4ToPanTro5.over.chain.gz
+panPan1 /cluster_path/ape_project/deletions_project/msa/chimp_10_way/query_panPan1/panTro4ToPanPan1.over.chain.gz
+gorGor4	/cluster_path/ape_project/deletions_project/msa/chimp_10_way/query_gorGor4/panTro4ToGorGor4.over.chain.gz
+ponAbe2	/cluster_path/ape_project/deletions_project/msa/chimp_10_way/query_ponAbe2/panTro4ToPonAbe2.over.chain.gz
+rheMac8	/cluster_path/ape_project/deletions_project/msa/chimp_10_way/query_rheMac8/panTro4ToRheMac8.over.chain.gz
