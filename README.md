@@ -11,15 +11,18 @@
 
 ## Analyze processed data
 See analyze_processed_data/hCONDEL_processed_data_analysis_script.r for generating figures relating to the DESeq2 processed data.
+
 See analyze_processed_data/single_cell_analyses_del_process.r for generating figures relating to the LOXL2-edited cells.
 
 ## Generating multiple sequence alignment
-See other_scripts/generate_multiz_alignment for scripts used to generate the 11-way multiple sequence alignment in the paper. multiple_sequence_master_script.sh is the main script.
+See other_scripts/generate_multiz_alignment for scripts used to generate the 11-way multiple sequence alignment in the paper. 
+
+other_scripts/generate_multiz_alignment/multiple_sequence_master_script.sh is the main script.
 
 ## Getting hCONDELs
-See other_scripts/get_hcondels for scripts used to obtain hCONDELs from the 11-way multiple sequence alignment/pairwise alignment between human (hg38) and chimpanzee (panTro4). finalFilteringProtocol_v4.sh, followed by deletion_protocol_continued.sh are the main scripts.
+See other_scripts/get_hcondels for scripts used to obtain hCONDELs from the 11-way multiple sequence alignment/pairwise alignment between human (hg38) and chimpanzee (panTro4). other_scripts/get_hcondels/finalFilteringProtocol_v4.sh, followed by other_scripts/get_hcondels/deletion_protocol_continued.sh are the main scripts.
 
-See denylist_commands_with_hg18_check_added_panTro6.sh for further filtering hCONDELs to the 10,032 hCONDELs used in the paper. This filtering script includes overlapping the hCONDELs with the GAGP dataset and checking that hCONDELs can be mapped to panTro5 (see materials and methods in the paper).
+See other_scripts/get_hcondels/denylist_commands_with_hg18_check_added_panTro6.sh for further filtering hCONDELs to the 10,032 hCONDELs used in the paper. This filtering script includes overlapping the hCONDELs with the GAGP dataset and checking that hCONDELs can be mapped to panTro5 (see materials and methods in the paper).
 
 ## Generate the barcode table
 See other_scripts/build_barcode_table for scripts used to generate the barcode table, "enhancer_barcode_1_22_19_merged_cutAMTBegin_16_adapterSeqTrimEnd_trimmed_bowtie2_barcode_assoc_table.txt" which is used in "other_scripts/get_counts/rep_barcode_associate_full_dataset.sh"
