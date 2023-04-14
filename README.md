@@ -27,7 +27,9 @@ See other_scripts/build_barcode_table for scripts used to generate the barcode t
 other_scripts/build_barcode_table/plasmid_seq_analyze_cleaned.sh is the main script.
 
 ## Preprocess read data
-See other_scripts/get_counts for scripts used to process read data to generate count files. rep_barcode_associate_full_dataset.sh is the main script.
+See other_scripts/get_counts for scripts used to process read data to generate count files. 
+
+other_scripts/get_counts/rep_barcode_associate_full_dataset.sh is the main script.
 
 ## Generate processed data
 After generating the initial count data, to generate the processed data (DESeq2 fold changes/p-values), see other_scripts/get_deseq2_data/run_deseq2.r 
@@ -52,7 +54,7 @@ See other_scripts/get_magma_results for analyses scripts for calculating the GWA
 
 other_scripts/get_magma_results/scripts/magma_analysis_v3_window.sh is the main script that can generate the GWAS enrichments for the displayed neurological traits in Fig. 1G.
 
-other_scripts/get_magma_results/scripts/magma_analysis_ukbb_v2_window.sh is the main script that can generate the hCONDEL GWAS enrichments from 4,178 traits from the UKBB
+other_scripts/get_magma_results/scripts/magma_analysis_ukbb_v2_window.sh is the main script that can generate the hCONDEL GWAS enrichments from 4,178 traits from the UKBB.
 
 ## hCONDEL genomic annotation and GTEx enrichments
 See other_scripts/get_genomic_annot_GTEx_enrichments for scripts for calculating enrichments for hCONDEL age, overlap with different repeat classes, coding, cis-regulatory element, and GTEx RNA-seq.
